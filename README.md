@@ -3,6 +3,7 @@
 
 Checks social media for the username.
 
+Coded in C# .Net core Console
 
 ## DLLS
 
