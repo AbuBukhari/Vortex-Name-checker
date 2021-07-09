@@ -12,4 +12,4 @@ https://github.com/csharp-leaf/Leaf.xNet
 
 ## Download?
 
-Send me an message so i can give you the download link. Discord: Vanix#9999
+Need to upload it.
